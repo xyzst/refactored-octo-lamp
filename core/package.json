@@ -1,0 +1,22 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzst/refactored-octo-lamp.git"
+  },
+  "author": "Darren Rambaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyzst/refactored-octo-lamp/issues"
+  },
+  "homepage": "https://github.com/xyzst/refactored-octo-lamp#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
